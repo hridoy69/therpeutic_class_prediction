@@ -1,1 +1,1 @@
-# therpeutic_class_prediction
+# Using machine learing for therpeutic class prediction of phytochemicals
